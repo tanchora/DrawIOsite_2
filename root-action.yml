@@ -1,6 +1,6 @@
 Action:
     icon: https://docs.nasdanika.org/images/nasdanika-logo.png
-    text: Nasdanika Templates
+    text: Beyond Diagrams
     location: https://github.com/Nasdanika-Templates
     children:
       - Action:
@@ -22,4 +22,4 @@ Action:
       - Action:
           text: Source
           icon: fab fa-github
-          location: https://github.com/Nasdanika-Templates/drawio-site  
+          location: https://tanchora.github.io/DrawIOsite_2/index.html  
