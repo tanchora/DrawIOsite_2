@@ -1,10 +1,8 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0" pages="2">
-  <diagram name="Home" id="home">
-    <mxGraphModel dx="1426" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Home" id="Mo_WGzRqNBP64w4yLu5Q">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <object label="" prototype="Action:&#xa;  location: ${base-uri}index.html" id="0">
-          <mxCell />
-        </object>
+        <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WPMWvL2D7NCBdiZkslux-5" edge="1" parent="1" source="WPMWvL2D7NCBdiZkslux-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="WPMWvL2D7NCBdiZkslux-4">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +31,7 @@
         <mxCell id="WPMWvL2D7NCBdiZkslux-11" edge="1" parent="1" source="WPMWvL2D7NCBdiZkslux-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WPMWvL2D7NCBdiZkslux-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="Chapters" documentation="Purum-param" id="WPMWvL2D7NCBdiZkslux-8">
+        <object label="Chapters" documentation="" id="WPMWvL2D7NCBdiZkslux-8">
           <mxCell parent="1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1">
             <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
           </mxCell>
@@ -43,14 +41,6 @@
             <mxGeometry height="60" width="120" x="230" y="300" as="geometry" />
           </mxCell>
         </object>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="FEQ9a5drlgxwQf98tMJh" name="Page-1">
-    <mxGraphModel dx="1426" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
