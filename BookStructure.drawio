@@ -30,7 +30,7 @@
             <mxGeometry height="60" width="120" x="230" y="220" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="WPMWvL2D7NCBdiZkslux-11" edge="1" parent="1" source="WPMWvL2D7NCBdiZkslux-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WPMWvL2D7NCBdiZkslux-10" value="">
+        <mxCell id="WPMWvL2D7NCBdiZkslux-11" edge="1" parent="1" source="WPMWvL2D7NCBdiZkslux-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="prerequisites" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Chapters" documentation="Purum-param" id="WPMWvL2D7NCBdiZkslux-8">
@@ -38,7 +38,7 @@
             <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
           </mxCell>
         </object>
-        <object label="1.1 Prerequisites" documentation="Techniques explained in this book are implemented in Java as Open Source Maven libraries available on Maven Central under the terms of Eclipse Public License 2. If you are a Java developer, you can incorporate them into your solutions.&#xa;Some of the techniques are wrapped into Nasdanika CLI5 commands. Nasdanika CLI requires Java 17.&#xa;Generation of a documentation site from a Draw.io diagram is wrapped into a GitHub pages action. To use it you need to have a GitHub account to create a new repository from a template and then adjust it to your needs." id="WPMWvL2D7NCBdiZkslux-10">
+        <object label="1.1 Prerequisites" doc-ref="prerequisites.md" id="prerequisites">
           <mxCell parent="1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1">
             <mxGeometry height="60" width="120" x="230" y="300" as="geometry" />
           </mxCell>
